@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiCodeFirstApproachAssiment1", "WebApiCodeFirstApproachAssiment1\WebApiCodeFirstApproachAssiment1.csproj", "{53020BF5-5EF7-47BC-99AE-B45E94D4FBDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53020BF5-5EF7-47BC-99AE-B45E94D4FBDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53020BF5-5EF7-47BC-99AE-B45E94D4FBDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53020BF5-5EF7-47BC-99AE-B45E94D4FBDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53020BF5-5EF7-47BC-99AE-B45E94D4FBDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B5AFE44-D482-4E06-8259-F5E178E16AD2}
+	EndGlobalSection
+EndGlobal
